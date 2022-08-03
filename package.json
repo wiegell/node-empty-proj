@@ -1,0 +1,9 @@
+{
+  "name": "empty-node-proj",
+  "version": "0.0.0",
+  "description": "testProj",
+  "main": "index.js",
+  "author": "BWiegell <bj.wiegell@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
